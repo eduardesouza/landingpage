@@ -106,3 +106,8 @@ input {
     border: none;
     font-size: 15px;
 }
+
+body > footer {
+    text-align: center;
+    margin-top: 10%;
+}
